@@ -1,0 +1,191 @@
+.
+├── ap
+│   └── palimpsest
+├── bamberg
+│   └── sbb104imgs
+├── bl
+│   ├── burney86imgs
+│   ├── harley1771imgs
+│   ├── harley5600imgs
+│   ├── harley5672imgs
+│   └── kings16imgs
+├── blpap
+│   └── pap131imgs
+├── bodleian
+│   ├── auct-f-2-13imgs
+│   ├── barocci131imgs
+│   ├── bodliean264imgs
+│   ├── clarke39imgs
+│   ├── digby83imgs
+│   ├── dorville301imgs
+│   ├── gr_class_b1_P_1-12imgs
+│   ├── gr_th_f1imgs
+│   └── junius11imgs
+├── cantus
+│   └── monza
+├── clay
+│   └── dorv301imgs
+├── codpal
+│   ├── cpgraec129imgs
+│   ├── cpgraec132imgs
+│   ├── cpgraec153imgs
+│   ├── cpgraec155imgs
+│   ├── cpgraec168imgs
+│   ├── cpgraec169imgs
+│   ├── cpgraec18imgs
+│   ├── cpgraec222imgs
+│   ├── cpgraec23imgs
+│   ├── cpgraec252imgs
+│   ├── cpgraec264imgs
+│   ├── cpgraec272imgs
+│   ├── cpgraec281imgs
+│   ├── cpgraec283imgs
+│   ├── cpgraec292imgs
+│   ├── cpgraec299imgs
+│   ├── cpgraec341imgs
+│   ├── cpgraec353imgs
+│   ├── cpgraec375imgs
+│   ├── cpgraec398imgs
+│   ├── cpgraec40imgs
+│   ├── cpgraec415imgs
+│   ├── cpgraec43imgs
+│   ├── cpgraec45imgs
+│   ├── cpgraec47imgs
+│   ├── cpgraec85imgs
+│   └── cpgraec88imgs
+├── ecod
+│   ├── baselA7imgs
+│   ├── bern318imgs
+│   ├── bern402imgs
+│   ├── bern459imgs
+│   ├── bern703imgs
+│   ├── bern88imgs
+│   ├── codbod136imgs
+│   ├── codbod25imgs
+│   ├── codbod3imgs
+│   ├── codbod47imgs
+│   ├── codbod48imgs
+│   ├── codbod5imgs
+│   ├── codbod64imgs
+│   ├── codbod85imgs
+│   ├── codbod8imgs
+│   ├── codsang298imgs
+│   ├── codsang339imgs
+│   ├── codsang359imgs
+│   ├── codsang570imgs
+│   ├── einsiedeln121imgs
+│   ├── gen44imgs
+│   └── gen49imgs
+├── fufolio
+│   ├── blpap
+│   ├── bodlian30
+│   ├── botcar
+│   ├── chad1912
+│   ├── chad1929
+│   ├── chad1962
+│   ├── chad2003
+│   ├── chad_multi
+│   ├── chad_rgb
+│   ├── codbod47
+│   ├── croat24
+│   ├── fuadvImg
+│   ├── jbdms
+│   ├── papyri
+│   ├── paris14137
+│   ├── wycliff_multi
+│   └── wycliff_rgb
+├── gallica
+│   ├── bnf1266imgs
+│   ├── bnf12957imgs
+│   ├── bnf1393imgs
+│   ├── bnf1402imgs
+│   ├── bnf1407imgs
+│   ├── bnf14137imgs
+│   ├── bnf2370imgs
+│   ├── bnf2389imgs
+│   ├── bnf2442imgs
+│   ├── bnf2556imgs
+│   ├── bnf2700imgs
+│   ├── bnf2705imgs
+│   ├── bnf2706imgs
+│   ├── bnf5724imgs
+│   ├── bnf5725imgs
+│   ├── bnf5730imgs
+│   ├── bnf7886imgs
+│   ├── bnfar2484imgs
+│   ├── bnf-grec-273imgs
+│   ├── bnf-lat-10257imgs
+│   ├── bnflat263imgs
+│   ├── bnflat4802imgs
+│   ├── bnflat4804imgs
+│   ├── bnflat7261imgs
+│   ├── bnflat7306imgs
+│   ├── bnflat981imgs
+│   ├── coislin345imgs
+│   ├── suppgr1189imgs
+│   ├── suppgr652imgs
+│   ├── suppgr663imgs
+│   └── suppgr679imgs
+├── hmt
+│   ├── capimgs
+│   ├── compimg
+│   ├── e3bifolio
+│   ├── e3img
+│   ├── e4img
+│   ├── u4img
+│   ├── vaimg
+│   ├── vbbifolio
+│   ├── vbimg
+│   └── villoison
+├── hmtpap
+│   ├── bmpap114
+│   └── chicago
+├── laur
+│   └── laur32imgs
+├── leiden
+│   ├── bpg78imgs
+│   ├── vgf1imgs
+│   ├── vgf64imgs
+│   ├── voss70imgs
+│   └── vosslatf4imgs
+├── loc
+│   └── tjcatalog
+├── lycian
+│   └── hc
+├── munich
+│   ├── bsb100imgs
+│   ├── bsb104imgs
+│   ├── bsb105imgs
+│   ├── bsb137imgs
+│   ├── bsb158imgs
+│   ├── bsb167imgs
+│   ├── bsb16imgs
+│   ├── bsb182imgs
+│   ├── bsb212imgs
+│   ├── bsb228imgs
+│   ├── bsb233imgs
+│   ├── bsb238imgs
+│   ├── bsb283imgs
+│   ├── bsb287imgs
+│   ├── bsb311imgs
+│   ├── bsb337imgs
+│   ├── bsb361imgs
+│   ├── bsb427imgs
+│   ├── bsb430imgs
+│   ├── bsb482imgs
+│   ├── bsb564imgs
+│   ├── bsb566imgs
+│   ├── bsb639imgs
+│   └── bsb88imgs
+├── oldpersian
+│   └── hc
+├── usnatarch
+│   └── declindep
+├── walters
+│   └── w734
+├── wolfenb
+│   └── gudgr24
+└── xolotl
+    └── codeximg
+
+188 directories, 1 file
